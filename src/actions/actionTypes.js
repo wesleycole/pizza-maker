@@ -1,0 +1,2 @@
+export const SELECT_PIZZA_SIZE = "SELECT_PIZZA_SIZE";
+export const SELECT_TOPPING = "SELECT_TOPPING";
