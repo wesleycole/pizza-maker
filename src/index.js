@@ -11,7 +11,7 @@ import App from "./App";
 import * as serviceWorker from "./serviceWorker";
 
 const client = new ApolloClient({
-  uri: "http://core-graphql.dev.waldo.photos/pizza"
+  uri: "https://core-graphql.dev.waldo.photos/pizza"
 });
 
 const store = createStore(
